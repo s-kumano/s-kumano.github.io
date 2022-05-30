@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Publications
 御手洗陽紀, 水谷航悠, 宮崎翔, 島村龍吾, <ins>熊野創一郎</ins>, 山崎俊彦  
 **ニューラルネットワークを用いた震度分布予測 (Prediction of Seismic Intensity Distribution Using Neural Networks)**  

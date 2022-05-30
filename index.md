@@ -2,6 +2,8 @@
 title: Home
 ---
 
+I am Soichiro Kumano (熊野 創一郎).
+
 ## Publications
 御手洗陽紀, 水谷航悠, 宮崎翔, 島村龍吾, <ins>熊野創一郎</ins>, 山崎俊彦  
 **ニューラルネットワークを用いた震度分布予測 (Prediction of Seismic Intensity Distribution Using Neural Networks)**  
@@ -21,7 +23,8 @@ title: Home
 
 ## Preprints
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
-**Are DNNs fooled by extremely unrecognizable images?**
+**Are DNNs fooled by extremely unrecognizable images?**  
+https://arxiv.org/abs/2012.03843
 
 ## Awards
 - 東京大学工学部電子情報工学科・電気電子工学科 優秀卒業論文賞, 2020年度
@@ -34,7 +37,11 @@ title: Home
 ## Contributed articles
 - [CGと現実の乖離を解釈可能な形で埋める敵対的な方法](https://tech.preferred.jp/ja/blog/adversarial-method-filling-sim-real-gap/)
 
-## Job / Intern
+## Education Experience
+- March 2017, Graduated from Kamakura Gakuen High School, Kanagawa, Japan
+- March 2021, B.S. degree in Department of Information and Communication Engineering, The University of Tokyo
+
+## Work Experience
 - (Part-time job)　2021/11-2022/2　株式会社　Preferred　Networks
 - (Intern)　2021/8-9　株式会社　Preferred　Networks
 - (Part-time job)　2020/7-2021/7　株式会社　MinD　in　a　Device

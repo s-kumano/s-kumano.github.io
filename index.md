@@ -17,8 +17,8 @@ I am Soichiro Kumano (熊野 創一郎).
 **ファッション画像に特化した深層学習によるクラスタリング**  
 情報処理学会第84回全国大会, 4U-03, pp.2-609-2-610, Mar.3-5, 2022
 
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki.　　
-Sparse Fooling Images: Fooling Neural Networks through Unrecognizable Images. 　
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
+**Sparse Fooling Images: Fooling Neural Networks through Unrecognizable Images**  
 第24回画像の認識・理解シンポジウム (MIRU), Jul.27-30, 2021（ショートオーラル）
 
 <ins>熊野創一郎</ins>, 計良宥志, 山崎俊彦  

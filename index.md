@@ -26,6 +26,10 @@ I am Soichiro Kumano (熊野 創一郎).
 **Are DNNs fooled by extremely unrecognizable images?**  
 https://arxiv.org/abs/2012.03843
 
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
+**Superclass Adversarial Attack**  
+https://arxiv.org/abs/2205.14629
+
 ## Awards
 - 東京大学工学部電子情報工学科・電気電子工学科 優秀卒業論文賞, 2020年度
 - 東京大学工学部電子情報工学科・電気電子工学科 学科⻑特別賞, 2020年度

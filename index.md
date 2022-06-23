@@ -53,6 +53,7 @@ https://arxiv.org/abs/2205.14629
 ## OSS contributions
 - [Accelerate](https://github.com/huggingface/accelerate)
 - [PyTorch](https://github.com/pytorch/pytorch)
+- [AutoAttack](https://github.com/fra31/auto-attack)
 
 ## Contributed articles
 - [CGと現実の乖離を解釈可能な形で埋める敵対的な方法](https://tech.preferred.jp/ja/blog/adversarial-method-filling-sim-real-gap/)

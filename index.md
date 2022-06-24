@@ -5,6 +5,10 @@ title: Home
 I am Soichiro Kumano (熊野 創一郎).
 
 ## Publications
+Koki Mukai, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki  
+**IMPROVING ROBUSTNESS TO OUT-OF-DISTRIBUTION DATA BY FREQUENCY-BASED AUGMENTATION**  
+IEEE International Conference on Image Processing (ICIP), to appear, Oct. 2022
+
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
 **Superclass Adversarial Attack**  
 第25回画像の認識・理解シンポジウム (MIRU), Jul.25-28, 2022

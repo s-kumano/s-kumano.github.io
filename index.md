@@ -5,9 +5,13 @@ title: Home
 I am Soichiro Kumano (熊野 創一郎).
 
 ## Publications
+Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki  
+**Prediction of Seismic Intensity Distributions Using Neural Networks**  
+IEEE Global Conference on Consumer Electronics (GCCE), Oct.18-21, 2022
+
 Koki Mukai, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki  
 **IMPROVING ROBUSTNESS TO OUT-OF-DISTRIBUTION DATA BY FREQUENCY-BASED AUGMENTATION**  
-IEEE International Conference on Image Processing (ICIP), to appear, Oct. 2022
+IEEE International Conference on Image Processing (ICIP), Oct.16-19, 2022
 
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
 **Superclass Adversarial Attack**  
@@ -15,7 +19,7 @@ IEEE International Conference on Image Processing (ICIP), to appear, Oct. 2022
 
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
 **Superclass Adversarial Attack**  
-International Conference on Machine Learning Workshop on Adversarial Machine Learning Frontiers, to appear, Jul. 2022
+International Conference on Machine Learning (ICML) Workshop on Adversarial Machine Learning Frontiers, Jul.17-23, 2022
 
 Koki Mukai, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki  
 **Frequency-based data augmentation that can enhance robustness to out-of-distribution data**  

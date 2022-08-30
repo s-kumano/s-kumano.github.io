@@ -45,14 +45,18 @@ Koki Mukai, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki
 **Sparse Fooling Images: 認識誤りを誘発するピクセル画像**  
 電子情報通信学会総合大会 (IEICE), D-12-12, 情報・システム講演論文集2, p.53, online, Mar.9-12, 2021
 
-## Preprints
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
-**Are DNNs fooled by extremely unrecognizable images?**  
-https://arxiv.org/abs/2012.03843
+## ArXiv links
+Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki  
+**Prediction of Seismic Intensity Distributions Using Neural Networks**  
+https://arxiv.org/abs/2208.07565
 
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
 **Superclass Adversarial Attack**  
 https://arxiv.org/abs/2205.14629
+
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
+**Are DNNs fooled by extremely unrecognizable images?**  
+https://arxiv.org/abs/2012.03843
 
 ## Awards
 - 東京大学工学部電子情報工学科・電気電子工学科 優秀卒業論文賞, 2020年度

@@ -66,6 +66,9 @@ Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro K
 - 東京大学工学部電子情報工学科・電気電子工学科 優秀卒業論文賞, 2020年度
 - 東京大学工学部電子情報工学科・電気電子工学科 学科⻑特別賞, 2020年度
 
+# Scholarship
+- 2023年度 日本学術振興会 特別研究員 DC1
+
 ## OSS contributions
 - [Accelerate](https://github.com/huggingface/accelerate)
 - [PyTorch](https://github.com/pytorch/pytorch)

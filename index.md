@@ -69,13 +69,13 @@ Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro K
 ## Scholarship
 - 2023年度 日本学術振興会 特別研究員 DC1
 
-## OSS contributions
+## OSS Contributions
 - [Accelerate](https://github.com/huggingface/accelerate)
 - [PyTorch](https://github.com/pytorch/pytorch)
 - [AutoAttack](https://github.com/fra31/auto-attack)
 - [PyTorch Lightning](https://github.com/Lightning-AI/lightning)
 
-## Contributed articles
+## Contributed Articles
 - [CGと現実の乖離を解釈可能な形で埋める敵対的な方法](https://tech.preferred.jp/ja/blog/adversarial-method-filling-sim-real-gap/)
 
 ## Education Experience

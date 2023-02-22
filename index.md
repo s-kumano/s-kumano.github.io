@@ -5,8 +5,8 @@ title: Home
 I am Soichiro Kumano (熊野 創一郎).
 
 ## Publications
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki
-**Probabilistic Approach towards Theoretical Understanding for Adversarial Training**
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
+**Probabilistic Approach towards Theoretical Understanding for Adversarial Training**  
 信学技報, 画像工学研究会 (IE), vol.122, no.385, IE2022-76, pp.95-100, Feb.21-22, 2023
 
 Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki  

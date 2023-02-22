@@ -2,7 +2,7 @@
 title: Home
 ---
 
-I am Soichiro Kumano (熊野 創一郎).
+Soichiro Kumano (熊野 創一郎).
 
 ## Publications
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  

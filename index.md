@@ -83,11 +83,11 @@ Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro K
 - [CGと現実の乖離を解釈可能な形で埋める敵対的な方法](https://tech.preferred.jp/ja/blog/adversarial-method-filling-sim-real-gap/)
 
 ## Education Experience
-- March 2017, Graduated from Kamakura Gakuen High School, Kanagawa, Japan
-- March 2021, B.S. degree in Department of Information and Communication Engineering, The University of Tokyo
+- March 2017, Graduated from [Kamakura Gakuen High School](https://www.kamagaku.ac.jp/), Kanagawa, Japan
+- March 2021, B.S. degree in [Department of Information and Communication Engineering](https://www.ee.t.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html)
 
 ## Work Experience
-- (Part-time) 2021/11-2022/2 [株式会社 Preferred Networks](https://www.preferred.jp/ja/)
-- (Intern) 2021/8-9 [株式会社 Preferred Networks](https://www.preferred.jp/ja/)
-- (Part-time) 2020/7-2021/7 [株式会社 MinD in a Device](https://mindinadevice.com/)
-- (Part-time) 2018/11-2020/7 [株式会社 トライアルカンパニー](https://www.trial-net.co.jp/)
+- (Part-time) 2021/11-2022/2 [Preferred Networks, Inc.](https://www.preferred.jp/en/)
+- (Intern) 2021/8-9 [Preferred Networks, Inc.](https://www.preferred.jp/en/)
+- (Part-time) 2020/7-2021/7 [MinD in a Device, Inc.](https://mindinadevice.com/en/)
+- (Part-time) 2018/11-2020/7 [トライアルカンパニー, Inc.](https://www.trial-net.co.jp/)

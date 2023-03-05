@@ -80,7 +80,7 @@ Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro K
 - [PyTorch Lightning](https://github.com/Lightning-AI/lightning)
 
 ## Contributed Articles
-- [CGと現実の乖離を解釈可能な形で埋める敵対的な方法](https://tech.preferred.jp/ja/blog/adversarial-method-filling-sim-real-gap/)
+- [CGと現実の乖離を解釈可能な形で埋める敵対的な方法](https://tech.preferred.jp/ja/blog/adversarial-method-filling-sim-real-gap/) (An adversarial method to bridge the gap between CG and reality semantically)
 
 ## Education Experience
 - March 2017, Graduated from [Kamakura Gakuen High School](https://www.kamagaku.ac.jp/), Kanagawa, Japan

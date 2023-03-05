@@ -67,11 +67,11 @@ Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro K
 <https://arxiv.org/abs/2012.03843>
 
 ## Awards
-- 東京大学工学部電子情報工学科・電気電子工学科 優秀卒業論文賞, 2020年度 (Best Bachelor Thesis Award 2020, Department of Information and Communication Engineering and Department of Electrical and Electronic Engineering, The University of Tokyo)
-- 東京大学工学部電子情報工学科・電気電子工学科 学科⻑特別賞, 2020年度 (Department Chair Award 2020, Department of Information and Communication Engineering and Department of Electrical and Electronic Engineering, The University of Tokyo)
+- **2020年度 東京大学 工学部 電子情報工学科・電気電子工学科 優秀卒業論文賞** (Best Bachelor Thesis Award 2020, Department of Information and Communication Engineering and Department of Electrical and Electronic Engineering, The University of Tokyo)
+- **2020年度 東京大学 工学部 電子情報工学科・電気電子工学科 学科⻑特別賞** (Department Chair Award 2020, Department of Information and Communication Engineering and Department of Electrical and Electronic Engineering, The University of Tokyo)
 
 ## Scholarship
-- 2023年度 日本学術振興会 特別研究員 DC1
+- **2023年度 日本学術振興会 特別研究員 DC1** (JSPS Research Fellowship for Young Scientist DC1 2023)
 
 ## OSS Contributions
 - [Accelerate](https://github.com/huggingface/accelerate)

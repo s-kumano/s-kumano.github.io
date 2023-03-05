@@ -88,6 +88,6 @@ Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro K
 
 ## Work Experience
 - (Part-time) 2021/11-2022/2 [株式会社 Preferred Networks](https://www.preferred.jp/ja/)
-- (Intern) 2021/8-9 株式会社 [Preferred Networks](https://www.preferred.jp/ja/)
+- (Intern) 2021/8-9 [株式会社 Preferred Networks](https://www.preferred.jp/ja/)
 - (Part-time) 2020/7-2021/7 [株式会社 MinD in a Device](https://mindinadevice.com/)
 - (Part-time) 2018/11-2020/7 [株式会社 トライアルカンパニー](https://www.trial-net.co.jp/)

@@ -87,7 +87,7 @@ Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro K
 - March 2021, B.S. degree in Department of Information and Communication Engineering, The University of Tokyo
 
 ## Work Experience
-- (Part-time job)　2021/11-2022/2　株式会社　Preferred　Networks
-- (Intern)　2021/8-9　株式会社　Preferred　Networks
-- (Part-time job)　2020/7-2021/7　株式会社　MinD　in　a　Device
-- (Part-time job)　2018/11-2020/7　株式会社　トライアルカンパニー
+- (Part-time) 2021/11-2022/2 [株式会社 Preferred Networks](https://www.preferred.jp/ja/)
+- (Intern) 2021/8-9 株式会社 [Preferred Networks](https://www.preferred.jp/ja/)
+- (Part-time) 2020/7-2021/7 [株式会社 MinD in a Device](https://mindinadevice.com/)
+- (Part-time) 2018/11-2020/7 [株式会社 トライアルカンパニー](https://www.trial-net.co.jp/)

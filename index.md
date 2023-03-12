@@ -77,8 +77,8 @@ Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro K
 
 ## OSS Contributions
 - [Accelerate](https://github.com/huggingface/accelerate)
-- [PyTorch](https://github.com/pytorch/pytorch)
 - [AutoAttack](https://github.com/fra31/auto-attack)
+- [PyTorch](https://github.com/pytorch/pytorch)
 - [PyTorch Lightning](https://github.com/Lightning-AI/lightning)
 
 ## Contributed Articles

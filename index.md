@@ -9,7 +9,7 @@ Soichiro Kumano (熊野 創一郎).
 ## Publications
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
 **Probabilistic Approach towards Theoretical Understanding for Adversarial Training**  
-信学技報, 画像工学研究会 (IE), vol.122, no.385, IE2022-76, pp.95-100, Feb.21-22, 2023
+信学技報, 画像工学研究会 (IE), vol.122, no.385, IE2022-76, pp.95-100, Feb.21-22, 2023 (Best Paper Award)
 
 Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki  
 **Prediction of Seismic Intensity Distributions Using Neural Networks**  
@@ -69,6 +69,7 @@ Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro K
 <https://arxiv.org/abs/2012.03843>
 
 ## Awards
+- **2022年度 IE賞 (画像工学研究会賞)** (Best Paper Awards at IE Conference)
 - **2020年度 東京大学 工学部 電子情報工学科・電気電子工学科 優秀卒業論文賞** (Best Bachelor Thesis Award 2020, Department of Information and Communication Engineering and Department of Electrical and Electronic Engineering, The University of Tokyo)
 - **2020年度 東京大学 工学部 電子情報工学科・電気電子工学科 学科⻑特別賞** (Department Chair Award 2020, Department of Information and Communication Engineering and Department of Electrical and Electronic Engineering, The University of Tokyo)
 

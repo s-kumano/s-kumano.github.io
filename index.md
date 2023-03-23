@@ -75,6 +75,7 @@ Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro K
 - **2020年度 東京大学 工学部 電子情報工学科・電気電子工学科 学科⻑特別賞** (Department Chair Award 2020, Department of Information and Communication Engineering and Department of Electrical and Electronic Engineering, The University of Tokyo)
 
 ## Scholarship
+- **Microsoft Research Asia D-CORE 2023**
 - **2023年度 日本学術振興会 特別研究員 DC1** (JSPS Research Fellowship for Young Scientist DC1 2023)
 
 ## OSS Contributions

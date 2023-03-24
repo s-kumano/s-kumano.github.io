@@ -71,8 +71,8 @@ Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro K
 ## Awards
 - **2022年度 東京大学大学院 情報理工学系研究科 電子情報学専攻長賞** (Dean's Award 2022, Department of Information and Communication Engineering, Graduate School of Information Science and Technology, The University of Tokyo)
 - **2022年度 IE賞（画像工学研究会賞）**(Best Paper Award at IE Conference 2022)
-- **2020年度 東京大学 工学部 電子情報工学科・電気電子工学科 優秀卒業論文賞** (Best Bachelor Thesis Award 2020, Department of Information and Communication Engineering and Department of Electrical and Electronic Engineering, The University of Tokyo)
 - **2020年度 東京大学 工学部 電子情報工学科・電気電子工学科 学科⻑特別賞** (Department Chair Award 2020, Department of Information and Communication Engineering and Department of Electrical and Electronic Engineering, The University of Tokyo)
+- **2020年度 東京大学 工学部 電子情報工学科・電気電子工学科 優秀卒業論文賞** (Best Bachelor Thesis Award 2020, Department of Information and Communication Engineering and Department of Electrical and Electronic Engineering, The University of Tokyo)
 
 ## Scholarship
 - **Microsoft Research Asia D-CORE 2023**

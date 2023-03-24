@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Homepage
 ---
 
 Soichiro Kumano（熊野 創一郎）.

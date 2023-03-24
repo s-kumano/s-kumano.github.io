@@ -4,3 +4,5 @@ description: Soichiro Kumano's home page（熊野創一郎のホームページ�
 theme: jekyll-theme-cayman
 author: Soichiro Kumano (熊野 創一郎)
 languages: ['en', 'ja']
+plugins:
+  - jekyll-sitemap

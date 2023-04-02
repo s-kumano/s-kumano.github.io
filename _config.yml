@@ -5,6 +5,9 @@ author: Soichiro Kumano (熊野 創一郎)
 languages: ['en', 'ja']
 plugins:
   - jekyll-sitemap
-sitemap:
-  exclude:
-    - '/google9fa1470a48e4e4d7.html'
+defaults:
+  - 
+  scope:
+    path: google9fa1470a48e4e4d7.html
+  values:
+    sitemap: false

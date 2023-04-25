@@ -76,7 +76,7 @@ Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro K
 
 ## Scholarship
 - **Microsoft Research Asia D-CORE 2023**
-- **2023年度 日本学術振興会 特別研究員 DC1** (JSPS Research Fellowship for Young Scientist DC1 2023)
+- **[2023年度 日本学術振興会 特別研究員 DC1](https://www.jsps.go.jp/file/storage/j-pd/data/list_of_recruits/R5_DC1_saiyou.pdf)** (JSPS Research Fellowship for Young Scientist DC1 2023)
 
 ## OSS Contributions
 - [Accelerate](https://github.com/huggingface/accelerate)

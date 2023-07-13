@@ -8,6 +8,10 @@ Soichiro Kumano（熊野 創一郎）
 
 ## Publications
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
+**Sparse Fooling Images: Fooling Machine Perception through Unrecognizable Images**  
+Elsevier Pattern Recognition Letters, 2023
+
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Probabilistic Approach towards Theoretical Understanding for Adversarial Training**  
 信学技報, 画像工学研究会 (IE), vol.122, no.385, IE2022-76, pp.95-100, Feb.21-22, 2023 (Best Paper Award)
 

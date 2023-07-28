@@ -8,6 +8,10 @@ Soichiro Kumano（熊野 創一郎）
 
 ## Publications
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
+**Probabilistic Approach towards Theoretical Understanding for Adversarial Training**  
+第26回画像の認識・理解シンポジウム (MIRU), Jul.25-28, 2023 (インタラクティブ発表賞)
+
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Sparse Fooling Images: Fooling Machine Perception through Unrecognizable Images**  
 Elsevier Pattern Recognition Letters, vol.172, pp.259-265, 2023 [IF2022 = 5.1]
 
@@ -73,10 +77,11 @@ Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro K
 <https://arxiv.org/abs/2012.03843>
 
 ## Awards
-- **2022年度 東京大学大学院 情報理工学系研究科 電子情報学専攻長賞** (Dean's Award 2022, Department of Information and Communication Engineering, Graduate School of Information Science and Technology, The University of Tokyo)
-- **2022年度 IE賞（画像工学研究会賞）**(Best Paper Award at IE Conference 2022)
-- **2020年度 東京大学 工学部 電子情報工学科・電気電子工学科 学科⻑特別賞** (Department Chair Award 2020, Department of Information and Communication Engineering and Department of Electrical and Electronic Engineering, The University of Tokyo)
-- **2020年度 東京大学 工学部 電子情報工学科・電気電子工学科 優秀卒業論文賞** (Best Bachelor Thesis Award 2020, Department of Information and Communication Engineering and Department of Electrical and Electronic Engineering, The University of Tokyo)
+- **2023年 MIRUインタラクティブ発表賞** (Interactive Presentation Award at the 26th Meeting on Image Recognition and Understanding (MIRU), 2023)
+- **2023年 2月 IE賞** (Best Paper Award at the Conference on Image Engineering (IE), February 2023)
+- **2022年度 東京大学大学院 情報理工学系研究科 電子情報学専攻長賞** (Dean's Award from the Department of Information and Communication Engineering, Graduate School of Information Science and Technology, The University of Tokyo, 2022)
+- **2020年度 東京大学 工学部 電子情報工学科・電気電子工学科 学科⻑特別賞** (Department Chair Special Award from the Department of Information and Communication Engineering and Department of Electrical and Electronic Engineering, The University of Tokyo, 2020)
+- **2020年度 東京大学 工学部 電子情報工学科・電気電子工学科 優秀卒業論文賞** (Best Bachelor Thesis Award from the Department of Information and Communication Engineering and Department of Electrical and Electronic Engineering, The University of Tokyo, 2020)
 
 ## Scholarship
 - **Microsoft Research Asia D-CORE 2023**

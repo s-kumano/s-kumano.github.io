@@ -25,7 +25,7 @@ International Conference on Machine Learning (ICML) Workshop on Adversarial Mach
 Elsevier Pattern Recognition Letters, vol. 172, pp. 259-265, 2023 [IF2022 = 5.1]
 
 ## Awards
-- **2023年 MIRUインタラクティブ発表賞** (Poster Presentation Award at the Meeting on Image Recognition and Understanding (MIRU), 2023)
+- **2023年度 MIRUインタラクティブ発表賞** (Poster Presentation Award at the Meeting on Image Recognition and Understanding (MIRU), 2023)
 - **2022年度 IE賞** (Best Paper Award at the Conference on Image Engineering (IE), 2022)
 - **2022年度 東京大学大学院 情報理工学系研究科 電子情報学専攻長賞** (Dean's Award from the Department of Information and Communication Engineering, Graduate School of Information Science and Technology, The University of Tokyo, 2022)
 - **2020年度 東京大学 工学部 電子情報工学科・電気電子工学科 学科⻑特別賞** (Department Chair Special Award from the Department of Information and Communication Engineering and Department of Electrical and Electronic Engineering, The University of Tokyo, 2020)

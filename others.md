@@ -16,7 +16,7 @@ title: Others
 第25回画像の認識・理解シンポジウム (MIRU), Jul. 25-28, 2022
 
 Koki Mukai, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki  
-**Frequency-based data augmentation that can enhance robustness to out-of-distribution data**  
+**Frequency-Based Data Augmentation That Can Enhance Robustness to Out-of-Distribution Data**  
 第25回画像の認識・理解シンポジウム (MIRU), Jul. 25-28, 2022 (ショートオーラル)
 
 御手洗陽紀, 水谷航悠, 宮崎翔, 島村龍吾, <ins>熊野創一郎</ins>, 山崎俊彦  

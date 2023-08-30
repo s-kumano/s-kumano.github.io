@@ -9,7 +9,7 @@ title: Others
 
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
 **Probabilistic Approach Towards Theoretical Understanding for Adversarial Training**  
-信学技報, 画像工学研究会 (IE), vol. 122, no. 385, IE2022-76, pp. 95-100, Feb. 21-22, 2023 (Best Paper Award)
+信学技報, 画像工学研究会 (IE), vol. 122, no. 385, IE2022-76, pp. 95-100, Feb. 21-22, 2023 (IE賞)
 
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
 **Superclass Adversarial Attack**  

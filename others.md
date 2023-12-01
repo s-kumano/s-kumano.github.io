@@ -4,6 +4,10 @@ title: Others
 
 ## Domestic Conference
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
+**Adversarial Training from Mean Field Perspective**  
+第26回情報論的学習理論ワークショップ (IBIS), Oct. 29-Nov. 1, 2023
+
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
 **Probabilistic Approach Towards Theoretical Understanding for Adversarial Training**  
 第26回画像の認識・理解シンポジウム (MIRU), Jul. 25-28, 2023 (インタラクティブ発表賞)
 

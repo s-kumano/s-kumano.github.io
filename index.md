@@ -9,11 +9,11 @@ Soichiro Kumano（熊野 創一郎）
 ## International Conference
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
 **Theoretical Explanation for Generalization from Adversarial Perturbations**  
-International Conference on Neural Information Processing Systems (NeurIPS) Workshop on Mathematics of Modern Machine Learning, Dec. 10-16, 2023
+Conference on Neural Information Processing Systems (NeurIPS) Workshop on Mathematics of Modern Machine Learning, Dec. 10-16, 2023
 
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
 **Adversarial Training from Mean Field Perspective**  
-International Conference on Neural Information Processing Systems (NeurIPS), Dec. 10-16, 2023 (Spotlight)
+Conference on Neural Information Processing Systems (NeurIPS), Dec. 10-16, 2023 (Spotlight)
 
 Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki  
 **Prediction of Seismic Intensity Distributions Using Neural Networks**  

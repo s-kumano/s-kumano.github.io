@@ -8,6 +8,11 @@ Soichiro Kumano（熊野 創一郎）
 
 ## International Conference
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
+**Theoretical Understanding of Learning from Adversarial Perturbations**  
+International Conference on Learning Representations (ICLR), 2024  
+<!-- May 7-11 -->
+
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
 **Theoretical Explanation for Generalization from Adversarial Perturbations**  
 Conference on Neural Information Processing Systems (NeurIPS) Workshop on Mathematics of Modern Machine Learning, 2023
 <!-- Dec. 10-16 -->

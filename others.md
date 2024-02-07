@@ -53,15 +53,6 @@ Koki Mukai, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki
 電子情報通信学会総合大会 (IEICE), D-12-12, 情報・システム講演論文集2, p. 53, 2021
 <!-- Mar. 9-12 -->
 
-## ArXiv Links
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
-**Superclass Adversarial Attack**  
-<https://arxiv.org/abs/2205.14629>
-
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
-**Are DNNs fooled by extremely unrecognizable images?**  
-<https://arxiv.org/abs/2012.03843>
-
 <!--
 ## OSS Contributions
 - [Accelerate](https://github.com/huggingface/accelerate)

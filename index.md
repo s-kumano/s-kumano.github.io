@@ -62,5 +62,5 @@ Pattern Recognition Letters, vol. 172, pp. 259-265, 2023
 ## Others
 - **[2023 東京大学 プレスリリース](https://www.i.u-tokyo.ac.jp/news/press/2023/202312042335.shtml)** (Press Release from the University of Tokyo, 2023)
 - [日本経済新聞 東大、平均場理論を応用した敵対的訓練を解析](https://www.nikkei.com/article/DGXZRSP665317_U3A201C2000000/)
-- [東大新聞オンライン AIの安全性向上へ　鍵はネットワークの「幅」](https://www.todaishimbun.org/meanfieldtheory_20231229/)
+- [東大新聞オンライン AIの安全性向上へ 鍵はネットワークの「幅」](https://www.todaishimbun.org/meanfieldtheory_20231229/)
 - [Others](./others.md)

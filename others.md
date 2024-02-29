@@ -3,6 +3,11 @@ title: Others
 ---
 
 ## Domestic Conference
+向井皇喜, <ins>熊野創一郎</ins>, Nicolas Michel, Ling Xiao, 山崎俊彦  
+**継続学習における敵対的頑健性の向上**  
+信学技報, 画像工学研究会 (IE), vol. 123, no. 381, IE2023-37, pp. 13-18, 2024
+<!-- Feb. 19-20 -->
+
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
 **Adversarial Training from Mean Field Perspective**  
 第26回情報論的学習理論ワークショップ (IBIS), 2023 (学生優秀プレゼンテーション賞ファイナリスト)

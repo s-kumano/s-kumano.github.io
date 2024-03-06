@@ -5,7 +5,7 @@ title: Others
 ## Domestic Conference
 向井皇喜, <ins>熊野創一郎</ins>, Nicolas Michel, Ling Xiao, 山崎俊彦  
 **継続学習における敵対的頑健性の向上**  
-信学技報, 画像工学研究会 (IE), vol. 123, no. 381, IE2023-37, pp. 13-18, 2024
+信学技報, 画像工学研究会 (IE), vol. 123, no. 381, IE2023-37, pp. 13-18, 2024 (IE賞)
 <!-- Feb. 19-20 -->
 
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  

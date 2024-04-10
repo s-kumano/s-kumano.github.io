@@ -45,6 +45,7 @@ International Conference on Machine Learning (ICML) Workshop on Adversarial Mach
 **Sparse Fooling Images: Fooling Machine Perception Through Unrecognizable Images**  
 Pattern Recognition Letters, vol. 172, pp. 259-265, 2023  
 [IF2022 = 5.1] [h5-index/2022 = 80]
+<!-- 10.1016/j.patrec.2023.07.003 -->
 
 ## Awards
 - **[2023年度 IBIS 学生優秀プレゼンテーション賞ファイナリスト](https://ibisml.org/ibis2023/awards/)** (Finalist for the Outstanding Student Presentation Award at the Information-Based Induction Sciences Workshop (IBIS), 2023)

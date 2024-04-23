@@ -19,19 +19,19 @@ Conference on Neural Information Processing Systems (NeurIPS) Workshop on Mathem
 
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
 **Adversarial Training from Mean Field Perspective**  
-Conference on Neural Information Processing Systems (NeurIPS), 2023 (Spotlight)  
+Conference on Neural Information Processing Systems (NeurIPS), vol. 36, pp. 75097-75150, 2023 (Spotlight)  
 [h5-index/2022 = 309] [3.0% of all submitted papers or 11% of all accepted papers]
 <!-- Dec. 10-16 -->
 
 Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki  
 **Prediction of Seismic Intensity Distributions Using Neural Networks**  
-IEEE Global Conference on Consumer Electronics (GCCE), 2022  
+IEEE Global Conference on Consumer Electronics (GCCE), pp. 424-425, 2022  
 [h5-index/2021 = 15]
 <!-- Oct. 18-21 -->
 
 Koki Mukai, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki  
 **Improving Robustness to Out-of-Distribution Data by Frequency-Based Augmentation**  
-IEEE International Conference on Image Processing (ICIP), 2022  
+IEEE International Conference on Image Processing (ICIP), pp. 3116-3120, 2022  
 [h5-index/2021 = 60]
 <!-- Oct. 16-19 -->
 

@@ -78,4 +78,4 @@ Koki Mukai, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki
 - (Part-time) 2021/11 - 2022/2 [Preferred Networks, Inc.](https://www.preferred.jp/en/)
 - (Intern) 2021/8 - 9 [Preferred Networks, Inc.](https://www.preferred.jp/en/)
 - (Part-time) 2020/7 - 2021/7 [MinD in a Device, Inc.](https://mindinadevice.com/en/)
-<!-- - (Part-time) 2018/11 - 2020/7 [トライアルカンパニー, Inc.](https://www.trial-net.co.jp/) -->
+- (Part-time) 2018/11 - 2020/7 [Retail AI, Inc.](https://www.retail-ai.jp/en/)

@@ -61,6 +61,7 @@ Pattern Recognition Letters, vol. 172, pp. 259-265, 2023
 - **[2023年度 日本学術振興会 特別研究員 DC1](https://www.jsps.go.jp/file/storage/j-pd/data/list_of_recruits/R5_DC1_saiyou.pdf)** (JSPS Research Fellowship for Young Scientist DC1 2023)
 
 ## Media
+- [サイエンスZERO 最新研究から考える! ヒトとAIが“共生”する未来](https://www.nhk.jp/p/zero/ts/XK5VKV7V98/episode/te/D72VNJ6Z5E/)
 - [JSTnews 2024年3月号](https://www.jst.go.jp/pr/jst-news/backnumber/2023/202403/pdf/2024_03.pdf)
 - [東大新聞オンライン AIの安全性向上へ 鍵はネットワークの「幅」](https://www.todaishimbun.org/meanfieldtheory_20231229/)
 - [日本経済新聞 東大、平均場理論を応用した敵対的訓練を解析](https://www.nikkei.com/article/DGXZRSP665317_U3A201C2000000/)

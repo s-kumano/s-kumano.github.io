@@ -13,27 +13,27 @@ title: Others
 信学技報, 画像工学研究会 (IE), vol. 123, no. 381, IE2023-37, pp. 13-18, 2024 (IE賞)
 <!-- Feb. 19-20 -->
 
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Adversarial Training from Mean Field Perspective**  
 第26回情報論的学習理論ワークショップ (IBIS), 2023 (学生優秀プレゼンテーション賞ファイナリスト)
 <!-- Oct. 29-Nov. 1 -->
 
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Probabilistic Approach Towards Theoretical Understanding for Adversarial Training**  
 第26回画像の認識・理解シンポジウム (MIRU), 2023 (インタラクティブ発表賞)
 <!-- Jul. 25-28 -->
 
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Probabilistic Approach Towards Theoretical Understanding for Adversarial Training**  
 信学技報, 画像工学研究会 (IE), vol. 122, no. 385, IE2022-76, pp. 95-100, 2023 (IE賞)
 <!-- Feb. 21-22 -->
 
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Superclass Adversarial Attack**  
 第25回画像の認識・理解シンポジウム (MIRU), 2022
 <!-- Jul. 25-28 -->
 
-Koki Mukai, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki  
+Koki Mukai, <ins>Soichiro Kumano</ins>, and Toshihiko Yamasaki  
 **Frequency-Based Data Augmentation That Can Enhance Robustness to Out-of-Distribution Data**  
 第25回画像の認識・理解シンポジウム (MIRU), 2022 (ショートオーラル)
 <!-- Jul. 25-28 -->
@@ -53,7 +53,7 @@ Koki Mukai, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki
 情報処理学会第84回全国大会 (IPSJ), 4U-03, pp. 2-609-2-610, 2022
 <!-- Mar. 3-5 -->
 
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Sparse Fooling Images: Fooling Neural Networks Through Unrecognizable Images**  
 第24回画像の認識・理解シンポジウム (MIRU), 2021 (ショートオーラル)
 <!-- Jul. 27-30 -->

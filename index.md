@@ -7,41 +7,46 @@ Soichiro Kumano（熊野 創一郎）
 [Mail](mailto:kumano0204@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=2G-XnwMAAAAJ) / [GitHub](https://github.com/s-kumano) / [arXiv](https://arxiv.org/search/cs?query=Soichiro+Kumano&searchtype=author)
 
 ## International Conference
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
+Koki Mukai, <ins>Soichiro Kumano</ins>, Nicolas Michel, Ling Xiao, and Toshihiko Yamasaki  
+**Adversarially Robust Continual Learning with Anti-Forgetting Loss**  
+IEEE International Conference on Image Processing (ICIP), 2024  
+<!-- Oct. 27-30 -->
+
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Theoretical Understanding of Learning from Adversarial Perturbations**  
 International Conference on Learning Representations (ICLR), 2024  
 <!-- May 7-11 -->
 
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Theoretical Explanation for Generalization from Adversarial Perturbations**  
 Conference on Neural Information Processing Systems (NeurIPS) Workshop on Mathematics of Modern Machine Learning, 2023
 <!-- Dec. 10-16 -->
 
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Adversarial Training from Mean Field Perspective**  
 Conference on Neural Information Processing Systems (NeurIPS), vol. 36, pp. 75097-75150, 2023 (Spotlight)  
 [h5-index/2022 = 309] [3.0% of all submitted papers or 11% of all accepted papers]
 <!-- Dec. 10-16 -->
 
-Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki  
+Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro Kumano</ins>, and Toshihiko Yamasaki  
 **Prediction of Seismic Intensity Distributions Using Neural Networks**  
 IEEE Global Conference on Consumer Electronics (GCCE), pp. 424-425, 2022  
 [h5-index/2021 = 15]
 <!-- Oct. 18-21 -->
 
-Koki Mukai, <ins>Soichiro Kumano</ins>, Toshihiko Yamasaki  
+Koki Mukai, <ins>Soichiro Kumano</ins>, and Toshihiko Yamasaki  
 **Improving Robustness to Out-of-Distribution Data by Frequency-Based Augmentation**  
 IEEE International Conference on Image Processing (ICIP), pp. 3116-3120, 2022  
 [h5-index/2021 = 60]
 <!-- Oct. 16-19 -->
 
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Superclass Adversarial Attack**  
 International Conference on Machine Learning (ICML) Workshop on Adversarial Machine Learning Frontiers, 2022
 <!-- Jul. 17-23 -->
 
 ## International Journal
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, Toshihiko Yamasaki  
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Sparse Fooling Images: Fooling Machine Perception Through Unrecognizable Images**  
 Pattern Recognition Letters, vol. 172, pp. 259-265, 2023  
 [IF2022 = 5.1] [h5-index/2022 = 80]

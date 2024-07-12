@@ -10,11 +10,13 @@ Soichiro Kumano（熊野 創一郎）
 Koki Mukai, <ins>Soichiro Kumano</ins>, Nicolas Michel, Ling Xiao, and Toshihiko Yamasaki  
 **Adversarially Robust Continual Learning with Anti-Forgetting Loss**  
 IEEE International Conference on Image Processing (ICIP), 2024  
+[h5-index/2023 = 66]
 <!-- Oct. 27-30 -->
 
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Theoretical Understanding of Learning from Adversarial Perturbations**  
 International Conference on Learning Representations (ICLR), 2024  
+[h5-index/2023 = 304]
 <!-- May 7-11 -->
 
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  

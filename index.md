@@ -81,4 +81,5 @@ The 27th Meeting on Image Recognition and Understanding (MIRU), 2024
 - [東京大学 プレスリリース 2023/12/04](https://www.i.u-tokyo.ac.jp/news/press/2023/202312042335.shtml)
 
 ## Others
+- [Review](./review.md)
 - [Others](./others.md)

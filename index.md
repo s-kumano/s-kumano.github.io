@@ -54,6 +54,12 @@ Pattern Recognition Letters, vol. 172, pp. 259-265, 2023
 [IF2022 = 5.1] [h5-index/2022 = 80]
 <!-- 10.1016/j.patrec.2023.07.003 -->
 
+## Invited Talks
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
+**Theoretical Understanding of Learning from Adversarial Perturbations**  
+The 27th Meeting on Image Recognition and Understanding (MIRU), 2024
+<!-- Aug. 6-9 -->
+
 ## Awards
 - **[2023年度 IBIS 学生優秀プレゼンテーション賞ファイナリスト](https://ibisml.org/ibis2023/awards/)** (Finalist for the Outstanding Student Presentation Award at the Information-Based Induction Sciences Workshop (IBIS), 2023)
 - **[2023年度 MIRUインタラクティブ発表賞](https://cvim.ipsj.or.jp/MIRU2023/award/)** (Best Poster Award at the Meeting on Image Recognition and Understanding (MIRU), 2023)

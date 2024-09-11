@@ -56,6 +56,11 @@ Pattern Recognition Letters, vol. 172, pp. 259-265, 2023
 
 ## Invited Talks
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
+**Theoretical Understanding of Learning from Adversarial Perturbations**  
+Symposium on Visual Computing (VC), 2024
+<!-- Sep. 10-12 -->
+
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Adversarial Training from Mean Field Perspective**  
 Forum on Information Technology (FIT), 2024
 <!-- Sep. 4-6 -->

@@ -7,6 +7,12 @@ Soichiro Kumano（熊野 創一郎）
 [Mail](mailto:kumano0204@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=2G-XnwMAAAAJ) / [GitHub](https://github.com/s-kumano) / [arXiv](https://arxiv.org/search/cs?query=Soichiro+Kumano&searchtype=author)
 
 ## International Conference
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
+**Wide Two-Layer Networks can Learn from Adversarial Perturbations**  
+Conference on Neural Information Processing Systems (NeurIPS), vol. 37, <!-- pp. ..., -->2024  
+[h5-index/2023 = 337]
+<!-- Dec. 9-15 -->
+
 Koki Mukai, <ins>Soichiro Kumano</ins>, Nicolas Michel, Ling Xiao, and Toshihiko Yamasaki  
 **Adversarially Robust Continual Learning with Anti-Forgetting Loss**  
 IEEE International Conference on Image Processing (ICIP), 2024  

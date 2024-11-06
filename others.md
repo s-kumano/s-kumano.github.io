@@ -3,6 +3,11 @@ title: Others
 ---
 
 ## Domestic Conference
+<ins>熊野創一郎</ins>, 計良宥志, 山崎俊彦  
+**Theoretical Understanding of Perturbation Learning**  
+第27回情報論的学習理論ワークショップ (IBIS), 2024
+<!-- Nov. 4-7 -->
+
 趙在瀛, <ins>熊野創一郎</ins>, 山崎俊彦  
 **Vision-Languageモデルを利用した画像分類におけるバイアスの言語的抽出と緩和**  
 第27回画像の認識・理解シンポジウム (MIRU), 2024 (オーラル, MIRU学生奨励賞)

@@ -5,7 +5,7 @@ title: Others
 ## Domestic Conference
 <ins>熊野創一郎</ins>, 計良宥志, 山崎俊彦  
 **Theoretical Understanding of Perturbation Learning**  
-第27回情報論的学習理論ワークショップ (IBIS), 2024
+第27回情報論的学習理論ワークショップ (IBIS), 2024 (学生最優秀プレゼンテーション賞)
 <!-- Nov. 4-7 -->
 
 趙在瀛, <ins>熊野創一郎</ins>, 山崎俊彦  

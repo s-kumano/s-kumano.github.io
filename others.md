@@ -3,6 +3,11 @@ title: Others
 ---
 
 ## Domestic Conference
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
+**Theoretical Explanation of Learning from Adversarial Perturbations**  
+信学技報, パターン認識・メディア理解研究会 (PRMU), vol. 124, no. 281, PRMU2024-13, pp. 26-31, 2024
+<!-- Nov. 29-30-->
+
 <ins>熊野創一郎</ins>, 計良宥志, 山崎俊彦  
 **Theoretical Understanding of Perturbation Learning**  
 第27回情報論的学習理論ワークショップ (IBIS), 2024 (学生最優秀プレゼンテーション賞)

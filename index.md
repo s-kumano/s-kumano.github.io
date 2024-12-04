@@ -77,6 +77,7 @@ Meeting on Image Recognition and Understanding (MIRU), 2024
 <!-- Aug. 6-9 -->
 
 ## Awards
+- **[2024年度 PRMU月間ベストプレゼンテーション賞](https://www.ieice.org/iss/prmu/jpn/award_list.html)** (Monthly Best Presentation Award at the Conference on Pattern Recognition and Media Understanding (PRMU), 2024)
 - **[2024年度 IBIS 学生最優秀プレゼンテーション賞](https://ibisml.org/ibis2024/awards/)** (The Outstanding Student Presentation Award at the Information-Based Induction Sciences Workshop (IBIS), 2024)
 - **[2023年度 IBIS 学生優秀プレゼンテーション賞ファイナリスト](https://ibisml.org/ibis2023/awards/)** (Finalist for the Outstanding Student Presentation Award at the Information-Based Induction Sciences Workshop (IBIS), 2023)
 - **[2023年度 MIRUインタラクティブ発表賞](https://cvim.ipsj.or.jp/MIRU2023/award/)** (Best Poster Award at the Meeting on Image Recognition and Understanding (MIRU), 2023)

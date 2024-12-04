@@ -4,8 +4,8 @@ title: Others
 
 ## Domestic Conference
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
-**Theoretical Explanation of Learning from Adversarial Perturbations**  
-信学技報, パターン認識・メディア理解研究会 (PRMU), vol. 124, no. 281, PRMU2024-13, pp. 26-31, 2024
+**Theoretical Explanation for Learning from Adversarial Perturbations**  
+信学技報, パターン認識・メディア理解研究会 (PRMU), vol. 124, no. 281, PRMU2024-13, pp. 26-31, 2024 (PRMU月間ベストプレゼンテーション賞)
 <!-- Nov. 29-30-->
 
 <ins>熊野創一郎</ins>, 計良宥志, 山崎俊彦  
@@ -35,7 +35,7 @@ title: Others
 
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Probabilistic Approach Towards Theoretical Understanding for Adversarial Training**  
-第26回画像の認識・理解シンポジウム (MIRU), 2023 (インタラクティブ発表賞)
+第26回画像の認識・理解シンポジウム (MIRU), 2023 (MIRUインタラクティブ発表賞)
 <!-- Jul. 25-28 -->
 
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  

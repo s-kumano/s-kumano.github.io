@@ -3,6 +3,7 @@ title: Review
 ---
 
 # Conference
+- Conference on Computer Vision and Pattern Recognition (CVPR) 2025
 - International Conference on Artificial Intelligence and Statistics (AISTATS) 2025
 - International Conference on Multimedia Modeling (MMM) 2025
 - IEEE Visual Communications and Image Processing (VCIP) 2024

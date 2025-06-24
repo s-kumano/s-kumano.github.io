@@ -15,7 +15,7 @@ Conference on Neural Information Processing Systems (NeurIPS), vol. 37, pp. 5975
 
 Koki Mukai, <ins>Soichiro Kumano</ins>, Nicolas Michel, Ling Xiao, and Toshihiko Yamasaki  
 **Adversarially Robust Continual Learning with Anti-Forgetting Loss**  
-IEEE International Conference on Image Processing (ICIP), 2024  
+IEEE International Conference on Image Processing (ICIP), pp. 1085-1091, 2024  
 [h5-index/2023 = 66]
 <!-- Oct. 27-30 -->
 

@@ -91,7 +91,7 @@ Meeting on Image Recognition and Understanding (MIRU), 2024
 ## Competitive Research Funds
 - **[2023年度 科学技術振興機構 戦略的創造研究推進事業 ACT-X](https://www.jst.go.jp/kisoken/act-x/application/2023/230919/230919act-x.pdf)** (JST ACT-X 2023)
 - **Microsoft Research Asia D-CORE 2023**
-- **[2023年度 日本学術振興会 特別研究員 DC1](https://www.jsps.go.jp/file/storage/j-pd/data/list_of_recruits/R5_DC1_saiyou.pdf)** (JSPS Research Fellowship for Young Scientist DC1 2023)
+- **[2023年度 日本学術振興会 特別研究員 DC1](https://www.jsps.go.jp/file/storage/j-pd/data/list_of_recruits/R5_DC1_saiyou.pdf)** (JSPS Research Fellowship for Young Scientist DC1 2023) <!-- 研究奨励金特別手当 -->
 
 ## Media
 - [サイエンスZERO 最新研究から考える! ヒトとAIが“共生”する未来](https://www.nhk.jp/p/zero/ts/XK5VKV7V98/episode/te/D72VNJ6Z5E/) <!-- 24/05/26 -->

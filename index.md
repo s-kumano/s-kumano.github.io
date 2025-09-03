@@ -98,7 +98,8 @@ Meeting on Image Recognition and Understanding (MIRU), 2024
 - **Microsoft Research Asia D-CORE 2023**
 - **[2023年度 日本学術振興会 特別研究員 DC1](https://www.jsps.go.jp/file/storage/j-pd/data/list_of_recruits/R5_DC1_saiyou.pdf)** (JSPS Research Fellowship for Young Scientist DC1 2023) <!-- 研究奨励金特別手当 -->
 
-## Media
+## Media / Contributed Article
+- 映像情報メディア学会誌 2025年9月号 (Vol. 79, No. 5) 特集：人をだます技術、AIをだます技術 3章 『敵対的サンプルからの防御』 <!-- 25/09/01 -->
 - [サイエンスZERO 最新研究から考える! ヒトとAIが“共生”する未来](https://www.nhk.jp/p/zero/ts/XK5VKV7V98/episode/te/D72VNJ6Z5E/) <!-- 24/05/26 -->
 - [JSTnews 2024年3月号](https://www.jst.go.jp/pr/jst-news/backnumber/2023/202403/pdf/2024_03.pdf) <!-- 24/03/01 -->
 - [東大新聞オンライン AIの安全性向上へ 鍵はネットワークの「幅」](https://www.todaishimbun.org/meanfieldtheory_20231229/) <!-- 23/12/29 -->

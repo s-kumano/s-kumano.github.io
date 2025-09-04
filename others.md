@@ -83,6 +83,11 @@ Koki Mukai, <ins>Soichiro Kumano</ins>, and Toshihiko Yamasaki
 電子情報通信学会総合大会 (IEICE), D-12-12, 情報・システム講演論文集2, p. 53, 2021
 <!-- Mar. 9-12 -->
 
+## Domestic Journal
+Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro Kumano</ins>, and Toshihiko Yamasaki  
+**Data-Driven Prediction of Seismic Intensity Distributions Featuring Hybrid Classification-Regression Models**  
+Journal of Japan Association for Earthquake Engineering, vol. 25, no. 11, pp. 40-56, 2025
+
 <!--
 ## OSS Contributions
 - [Accelerate](https://github.com/huggingface/accelerate)

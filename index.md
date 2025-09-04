@@ -54,10 +54,6 @@ International Conference on Machine Learning (ICML) Workshop on Adversarial Mach
 <!-- Jul. 17-23 -->
 
 ## International Journal
-Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro Kumano</ins>, and Toshihiko Yamasaki  
-**Data-Driven Prediction of Seismic Intensity Distributions Featuring Hybrid Classification-Regression Models**  
-Journal of Japan Association for Earthquake Engineering, vol. 25, no. 11, pp. 40-56, 2025
-
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Sparse Fooling Images: Fooling Machine Perception Through Unrecognizable Images**  
 Pattern Recognition Letters, vol. 172, pp. 259-265, 2023  

@@ -91,9 +91,14 @@ Journal of Japan Association for Earthquake Engineering, vol. 25, no. 11, pp. 40
 <!--
 ## OSS Contributions
 - [Accelerate](https://github.com/huggingface/accelerate)
+    - 31fa5e0ce39b0412eaec537f09bb0e547285adda
 - [AutoAttack](https://github.com/fra31/auto-attack)
+    - e2f9e461a37ae63c7d1daeda5a1b069906fca21b
 - [PyTorch](https://github.com/pytorch/pytorch)
+    - aa5134c805a124d6751470d7999a73ad798b73e3
+    - 058bf6576ff46a405ea22f16e3c1bc91a3fdf591
 - [PyTorch Lightning](https://github.com/Lightning-AI/lightning)
+    - e193b16ae5382db9af7c57ed923a066438ab0f4b
 
 ## Contributed Article
 - [CGと現実の乖離を解釈可能な形で埋める敵対的な方法](https://tech.preferred.jp/ja/blog/adversarial-method-filling-sim-real-gap/) (An Adversarial Method to Bridge the Gap Between CG and Reality Semantically)
@@ -105,6 +110,7 @@ Journal of Japan Association for Earthquake Engineering, vol. 25, no. 11, pp. 40
 <!-- - March 2017, Graduated from [Kamakura Gakuen High School](https://www.kamagaku.ac.jp/), Kanagawa, Japan -->
 
 ## Work Experience
+<!-- - 東芝ビジネスエキスパート株式会社 研修業務 TA -->
 - (Part-time) 2021/11 - 2022/2 [Preferred Networks, Inc.](https://www.preferred.jp/en/)
 - (Intern) 2021/8 - 9 [Preferred Networks, Inc.](https://www.preferred.jp/en/)
 - (Part-time) 2020/7 - 2021/7 [MinD in a Device, Inc.](https://mindinadevice.com/en/)

@@ -3,6 +3,7 @@ title: Review
 ---
 
 # Conference
+- Conference on Neural Information Processing Systems (NeurIPS) 2025
 - International Conference on Machine Learning (ICML) 2025
 - Conference on Computer Vision and Pattern Recognition (CVPR) 2025
 - International Conference on Artificial Intelligence and Statistics (AISTATS) 2025

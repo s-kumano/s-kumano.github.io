@@ -179,9 +179,6 @@ Meeting on Image Recognition and Understanding (MIRU), 2024
     - 058bf6576ff46a405ea22f16e3c1bc91a3fdf591
 - [PyTorch Lightning](https://github.com/Lightning-AI/lightning)
     - e193b16ae5382db9af7c57ed923a066438ab0f4b
-
-## Contributed Article
-- [CGと現実の乖離を解釈可能な形で埋める敵対的な方法](https://tech.preferred.jp/ja/blog/adversarial-method-filling-sim-real-gap/) (An Adversarial Method to Bridge the Gap Between CG and Reality Semantically)
 -->
 
 ## Education Experience

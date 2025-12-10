@@ -93,6 +93,27 @@ Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro K
 **Data-Driven Prediction of Seismic Intensity Distributions Featuring Hybrid Classification-Regression Models**  
 Journal of Japan Association for Earthquake Engineering, vol. 25, no. 11, pp. 40-56, 2025
 
+## Invited Talks
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
+**Wide Two-Layer Networks can Learn from Adversarial Perturbations**  
+Meeting on Image Recognition and Understanding (MIRU), 2025
+<!-- Jul. 29 - Aug. 1 -->
+
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
+**Theoretical Understanding of Learning from Adversarial Perturbations**  
+Symposium on Visual Computing (VC), 2024
+<!-- Sep. 10-12 -->
+
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
+**Adversarial Training from Mean Field Perspective**  
+Forum on Information Technology (FIT), 2024
+<!-- Sep. 4-6 -->
+
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
+**Theoretical Understanding of Learning from Adversarial Perturbations**  
+Meeting on Image Recognition and Understanding (MIRU), 2024
+<!-- Aug. 6-9 -->
+
 <!--
 ## OSS Contributions
 - [Accelerate](https://github.com/huggingface/accelerate)

@@ -6,18 +6,12 @@ Soichiro Kumano（熊野 創一郎）
 
 [Mail](mailto:kumano0204@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=2G-XnwMAAAAJ) / [GitHub](https://github.com/s-kumano) / [arXiv](https://arxiv.org/search/cs?query=Soichiro+Kumano&searchtype=author)
 
-## International Conference
+## Selected Publications
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Wide Two-Layer Networks can Learn from Adversarial Perturbations**  
 Conference on Neural Information Processing Systems (NeurIPS), vol. 37, pp. 59755-59807, 2024  
 [h5-index/2023 = 337]
 <!-- Dec. 9-15 -->
-
-Koki Mukai, <ins>Soichiro Kumano</ins>, Nicolas Michel, Ling Xiao, and Toshihiko Yamasaki  
-**Adversarially Robust Continual Learning with Anti-Forgetting Loss**  
-IEEE International Conference on Image Processing (ICIP), pp. 1085-1091, 2024  
-[h5-index/2023 = 66]
-<!-- Oct. 27-30 -->
 
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Theoretical Understanding of Learning from Adversarial Perturbations**  
@@ -26,60 +20,10 @@ International Conference on Learning Representations (ICLR), 2024
 <!-- May 7-11 -->
 
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
-**Theoretical Explanation for Generalization from Adversarial Perturbations**  
-Conference on Neural Information Processing Systems (NeurIPS) Workshop on Mathematics of Modern Machine Learning, 2023
-<!-- Dec. 10-16 -->
-
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Adversarial Training from Mean Field Perspective**  
 Conference on Neural Information Processing Systems (NeurIPS), vol. 36, pp. 75097-75150, 2023 (Spotlight)  
 [h5-index/2022 = 309] [3.0% of all submitted papers or 11% of all accepted papers]
 <!-- Dec. 10-16 -->
-
-Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro Kumano</ins>, and Toshihiko Yamasaki  
-**Prediction of Seismic Intensity Distributions Using Neural Networks**  
-IEEE Global Conference on Consumer Electronics (GCCE), pp. 424-425, 2022  
-[h5-index/2021 = 15]
-<!-- Oct. 18-21 -->
-
-Koki Mukai, <ins>Soichiro Kumano</ins>, and Toshihiko Yamasaki  
-**Improving Robustness to Out-of-Distribution Data by Frequency-Based Augmentation**  
-IEEE International Conference on Image Processing (ICIP), pp. 3116-3120, 2022  
-[h5-index/2021 = 60]
-<!-- Oct. 16-19 -->
-
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
-**Superclass Adversarial Attack**  
-International Conference on Machine Learning (ICML) Workshop on Adversarial Machine Learning Frontiers, 2022
-<!-- Jul. 17-23 -->
-
-## International Journal
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
-**Sparse Fooling Images: Fooling Machine Perception Through Unrecognizable Images**  
-Pattern Recognition Letters, vol. 172, pp. 259-265, 2023  
-[IF2022 = 5.1] [h5-index/2022 = 80]
-<!-- 10.1016/j.patrec.2023.07.003 -->
-
-## Invited Talks
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
-**Wide Two-Layer Networks can Learn from Adversarial Perturbations**  
-Meeting on Image Recognition and Understanding (MIRU), 2025
-<!-- Jul. 29 - Aug. 1 -->
-
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
-**Theoretical Understanding of Learning from Adversarial Perturbations**  
-Symposium on Visual Computing (VC), 2024
-<!-- Sep. 10-12 -->
-
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
-**Adversarial Training from Mean Field Perspective**  
-Forum on Information Technology (FIT), 2024
-<!-- Sep. 4-6 -->
-
-<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
-**Theoretical Understanding of Learning from Adversarial Perturbations**  
-Meeting on Image Recognition and Understanding (MIRU), 2024
-<!-- Aug. 6-9 -->
 
 ## Awards
 - **[2024年度 PRMU研究奨励賞](https://www.ieice.org/iss/prmu/jpn/award_list.html)** (Research Encouragement Award at the Conference on Pattern Recognition and Media Understanding (PRMU), 2024) <!-- 25/05/16 -->
@@ -98,7 +42,7 @@ Meeting on Image Recognition and Understanding (MIRU), 2024
 - **Microsoft Research Asia D-CORE 2023**
 - **[2023年度 日本学術振興会 特別研究員 DC1](https://www.jsps.go.jp/file/storage/j-pd/data/list_of_recruits/R5_DC1_saiyou.pdf)** (JSPS Research Fellowship for Young Scientist DC1 2023) <!-- 研究奨励金特別手当 -->
 
-## Media / Contributed Article
+## Media / Contributed Articles
 - 映像情報メディア学会誌 2025年9月号 (Vol. 79, No. 5) 特集：人をだます技術、AIをだます技術 3章 『敵対的サンプルからの防御』 <!-- 25/09/01 -->
 - [サイエンスZERO 最新研究から考える! ヒトとAIが“共生”する未来](https://www.nhk.jp/p/zero/ts/XK5VKV7V98/episode/te/D72VNJ6Z5E/) <!-- 24/05/26 -->
 - [JSTnews 2024年3月号](https://www.jst.go.jp/pr/jst-news/backnumber/2023/202403/pdf/2024_03.pdf) <!-- 24/03/01 -->

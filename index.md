@@ -49,6 +49,7 @@ Conference on Neural Information Processing Systems (NeurIPS), vol. 36, pp. 7509
 - [東大新聞オンライン AIの安全性向上へ 鍵はネットワークの「幅」](https://www.todaishimbun.org/meanfieldtheory_20231229/) <!-- 23/12/29 -->
 - [日本経済新聞 東大、平均場理論を応用した敵対的訓練を解析](https://www.nikkei.com/article/DGXZRSP665317_U3A201C2000000/) <!-- 23/12/04 -->
 - [東京大学 プレスリリース 2023/12/04](https://www.i.u-tokyo.ac.jp/news/press/2023/202312042335.shtml) <!-- 23/12/04 -->
+<!-- - [CGと現実の乖離を解釈可能な形で埋める敵対的な方法](https://tech.preferred.jp/ja/blog/adversarial-method-filling-sim-real-gap/) (An Adversarial Method to Bridge the Gap Between CG and Reality Semantically) -->
 
 ## Others
 <!-- - [Review](./review.md) -->

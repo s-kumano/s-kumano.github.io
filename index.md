@@ -2,7 +2,7 @@
 title: Homepage
 ---
 
-Soichiro Kumano（熊野 創一郎）
+Soichiro KUMANO（熊野 創一郎）
 
 [Mail](mailto:kumano0204@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=2G-XnwMAAAAJ) / [GitHub](https://github.com/s-kumano) / [arXiv](https://arxiv.org/search/cs?query=Soichiro+Kumano&searchtype=author)
 

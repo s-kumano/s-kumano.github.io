@@ -4,7 +4,7 @@ title: Others
 
 ## International Conference
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
-**Wide Two-Layer Networks can Learn from Adversarial Perturbations**  
+**Wide Two-Layer Networks Can Learn from Adversarial Perturbations**  
 Conference on Neural Information Processing Systems (NeurIPS), vol. 37, pp. 59755-59807, 2024  
 [h5-index/2023 = 337]
 <!-- Dec. 9-15 -->
@@ -58,7 +58,7 @@ Pattern Recognition Letters, vol. 172, pp. 259-265, 2023
 
 ## Domestic Conference
 <ins>熊野創一郎</ins>, 計良宥志, 山崎俊彦  
-**Adversarially Pretrained Shallow Transformers are Universally Robust In-Context Learners**  
+**Adversarially Pretrained Shallow Transformers Are Universally Robust In-Context Learners**  
 第28回情報論的学習理論ワークショップ (IBIS), 2025
 <!-- Nov. 12-15 -->
 
@@ -149,7 +149,7 @@ Journal of Japan Association for Earthquake Engineering, vol. 25, no. 11, pp. 40
 
 ## Invited Talks
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
-**Wide Two-Layer Networks can Learn from Adversarial Perturbations**  
+**Wide Two-Layer Networks Can Learn from Adversarial Perturbations**  
 Meeting on Image Recognition and Understanding (MIRU), 2025
 <!-- Jul. 29 - Aug. 1 -->
 

@@ -8,7 +8,7 @@ Soichiro KUMANO（熊野 創一郎）
 
 ## Selected Publications
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
-**Wide Two-Layer Networks can Learn from Adversarial Perturbations**  
+**Wide Two-Layer Networks Can Learn from Adversarial Perturbations**  
 Conference on Neural Information Processing Systems (NeurIPS), vol. 37, pp. 59755-59807, 2024  
 [h5-index/2023 = 337]
 <!-- Dec. 9-15 -->

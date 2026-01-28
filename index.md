@@ -8,6 +8,12 @@ Soichiro KUMANO（熊野 創一郎）
 
 ## Selected Publications
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
+**Adversarially Pretrained Transformers May Be Universally Robust In-Context Learners**  
+International Conference on Learning Representations (ICLR), 2026  
+[h5-index/2024 = 362]
+<!-- Apr. 23-27 -->
+
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Wide Two-Layer Networks Can Learn from Adversarial Perturbations**  
 Conference on Neural Information Processing Systems (NeurIPS), vol. 37, pp. 59755-59807, 2024  
 [h5-index/2023 = 337]

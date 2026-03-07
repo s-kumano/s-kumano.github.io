@@ -32,6 +32,7 @@ Conference on Neural Information Processing Systems (NeurIPS), vol. 36, pp. 7509
 <!-- Dec. 10-16 -->
 
 ## Awards
+- **2025年度 IE賞** (Best Paper Award at the Conference on Image Engineering (IE), 2025)
 - **[2024年度 PRMU研究奨励賞](https://www.ieice.org/iss/prmu/jpn/award_list.html)** (Research Encouragement Award at the Conference on Pattern Recognition and Media Understanding (PRMU), 2024) <!-- 25/05/16 -->
 - **[2024年度 CGVI 優秀研究発表賞](https://cgvi.jp/info/bestpapers/#196)** (Best Paper Award at the Conference on Computer Graphics and Visual Informatics (CGVI), 2024) <!-- 24/11/30 -->
 - **[2024年度 PRMU月間ベストプレゼンテーション賞](https://www.ieice.org/iss/prmu/jpn/award_list.html)** (Monthly Best Presentation Award at the Conference on Pattern Recognition and Media Understanding (PRMU), 2024) <!-- 24/11/30 -->

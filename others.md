@@ -63,6 +63,11 @@ Pattern Recognition Letters, vol. 172, pp. 259-265, 2023
 <!-- 10.1016/j.patrec.2023.07.003 -->
 
 ## Domestic Conference
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
+**Adversarially Pretrained Transformers May Be Universally Robust In-Context Learners**  
+信学技報, 画像工学研究会 (IE), vol. 125, no. 356, IE2025-61, pp. 37-42, 2026 (IE賞)
+<!-- Feb. 19-20 -->
+
 <ins>熊野創一郎</ins>, 計良宥志, 山崎俊彦  
 **Adversarially Pretrained Shallow Transformers Are Universally Robust In-Context Learners**  
 第28回情報論的学習理論ワークショップ (IBIS), 2025

@@ -193,8 +193,9 @@ Visual Computing (VC), 2024
 -->
 
 ## Education Experience
-- March 2023, M.S. degree in [Department of Information and Communication Engineering](https://www.i.u-tokyo.ac.jp/edu/course/ice/index_e.shtml), [Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html)
-- March 2021, B.S. degree in [Department of Information and Communication Engineering](https://www.ee.t.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html)
+- March 2026, Ph.D. (Information Science and Technology) in [Department of Information and Communication Engineering](https://www.i.u-tokyo.ac.jp/edu/course/ice/index_e.shtml), [Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html)
+- March 2023, M.S. (Information Science and Technology) in [Department of Information and Communication Engineering](https://www.i.u-tokyo.ac.jp/edu/course/ice/index_e.shtml), [Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html)
+- March 2021, B.S. (Engineering) in [Department of Information and Communication Engineering](https://www.ee.t.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html)
 <!-- - March 2017, Graduated from [Kamakura Gakuen High School](https://www.kamagaku.ac.jp/), Kanagawa, Japan -->
 
 ## Work Experience

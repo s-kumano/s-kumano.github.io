@@ -3,6 +3,11 @@ title: Others
 ---
 
 ## International Conference
+Koshiro Toishi, Keisuke Maeda, <ins>Soichiro Kumano</ins>, Ren Togo, Toshihiko Yamasaki, Takahiro Ogawa, and Miki Haseyama  
+**Analysis of Model Merging for Integrating Adversarial Robustness Across Diverse Datasets in CLIP Models**
+IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW), 2026
+<!-- Jul. 1-3 -->
+
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Adversarially Pretrained Transformers May Be Universally Robust In-Context Learners**  
 International Conference on Learning Representations (ICLR), 2026  

@@ -5,7 +5,7 @@ title: Others
 ## International Conference
 Koshiro Toishi, Keisuke Maeda, <ins>Soichiro Kumano</ins>, Ren Togo, Toshihiko Yamasaki, Takahiro Ogawa, and Miki Haseyama  
 **Analysis of Model Merging for Integrating Adversarial Robustness Across Diverse Datasets in CLIP Models**
-IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW), 2026
+IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW), 2026 (Best Presentation Award)
 <!-- Jul. 1-3 -->
 
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
@@ -68,6 +68,11 @@ Pattern Recognition Letters, vol. 172, pp. 259-265, 2023
 <!-- 10.1016/j.patrec.2023.07.003 -->
 
 ## Domestic Conference
+Koshiro Toishi, Keisuke Maeda, <ins>Soichiro Kumano</ins>, Ren Togo, Yoshihiko Yamasaki, Takahiro Ogawa, Miki Haseyama  
+**Analyzing and Mitigating Early-Layer Interference in Model Merging for Adversarial Robustness Across Diverse Datasets**  
+第29回画像の認識・理解シンポジウム (MIRU), 2026
+<!-- Aug. 3 - Aug. 6 -->
+
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Adversarially Pretrained Transformers May Be Universally Robust In-Context Learners**  
 信学技報, 画像工学研究会 (IE), vol. 125, no. 356, IE2025-61, pp. 37-42, 2026 (IE賞)
@@ -164,6 +169,11 @@ Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro K
 Journal of Japan Association for Earthquake Engineering, vol. 25, no. 11, pp. 40-56, 2025
 
 ## Invited Talks
+<ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
+**Adversarially Pretrained Transformers May Be Universally Robust In-Context Learners**  
+第29回画像の認識・理解シンポジウム (MIRU), 2026
+<!-- Aug. 3 - Aug. 6 -->
+
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Wide Two-Layer Networks Can Learn from Adversarial Perturbations**  
 第28回画像の認識・理解シンポジウム (MIRU), 2025

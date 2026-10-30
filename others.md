@@ -3,6 +3,7 @@ title: Others
 ---
 
 ## International Conference
+
 Koshiro Toishi, Keisuke Maeda, <ins>Soichiro Kumano</ins>, Ren Togo, Toshihiko Yamasaki, Takahiro Ogawa, and Miki Haseyama  
 **Analysis of Model Merging for Integrating Adversarial Robustness Across Diverse Datasets in CLIP Models**
 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW), 2026 (Best Presentation Award)
@@ -61,6 +62,7 @@ International Conference on Machine Learning (ICML) Workshop on Adversarial Mach
 <!-- Jul. 17-23 -->
 
 ## International Journal
+
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Sparse Fooling Images: Fooling Machine Perception Through Unrecognizable Images**  
 Pattern Recognition Letters, vol. 172, pp. 259-265, 2023  
@@ -68,6 +70,12 @@ Pattern Recognition Letters, vol. 172, pp. 259-265, 2023
 <!-- 10.1016/j.patrec.2023.07.003 -->
 
 ## Domestic Conference
+
+<ins>熊野創一郎</ins>  
+**Adversarially Trained Linear Transformers Are Optimal Robust In-Context Learners for Gaussian Mixtures**  
+第29回情報論的学習理論ワークショップ (IBIS), 2026
+<!-- Oct. 26-29 -->
+
 Koshiro Toishi, Keisuke Maeda, <ins>Soichiro Kumano</ins>, Ren Togo, Yoshihiko Yamasaki, Takahiro Ogawa, Miki Haseyama  
 **Analyzing and Mitigating Early-Layer Interference in Model Merging for Adversarial Robustness Across Diverse Datasets**  
 第29回画像の認識・理解シンポジウム (MIRU), 2026
@@ -164,11 +172,13 @@ Koki Mukai, <ins>Soichiro Kumano</ins>, and Toshihiko Yamasaki
 <!-- Mar. 9-12 -->
 
 ## Domestic Journal
+
 Koyu Mizutani, Haruki Mitarai, Kakeru Miyazaki, Ryugo Shimamura, <ins>Soichiro Kumano</ins>, and Toshihiko Yamasaki  
 **Data-Driven Prediction of Seismic Intensity Distributions Featuring Hybrid Classification-Regression Models**  
 Journal of Japan Association for Earthquake Engineering, vol. 25, no. 11, pp. 40-56, 2025
 
 ## Invited Talks
+
 <ins>Soichiro Kumano</ins>, Hiroshi Kera, and Toshihiko Yamasaki  
 **Adversarially Pretrained Transformers May Be Universally Robust In-Context Learners**  
 第29回画像の認識・理解シンポジウム (MIRU), 2026
@@ -196,6 +206,7 @@ Visual Computing (VC), 2024
 
 <!--
 ## OSS Contributions
+
 - [Accelerate](https://github.com/huggingface/accelerate)
     - 31fa5e0ce39b0412eaec537f09bb0e547285adda
 - [AutoAttack](https://github.com/fra31/auto-attack)
@@ -208,12 +219,14 @@ Visual Computing (VC), 2024
 -->
 
 ## Education Experience
+
 - March 2026, Ph.D. (Information Science and Technology) in [Department of Information and Communication Engineering](https://www.i.u-tokyo.ac.jp/edu/course/ice/index_e.shtml), [Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html)
 - March 2023, M.S. (Information Science and Technology) in [Department of Information and Communication Engineering](https://www.i.u-tokyo.ac.jp/edu/course/ice/index_e.shtml), [Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html)
 - March 2021, B.S. (Engineering) in [Department of Information and Communication Engineering](https://www.ee.t.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html)
 <!-- - March 2017, Graduated from [Kamakura Gakuen High School](https://www.kamagaku.ac.jp/), Kanagawa, Japan -->
 
 ## Work Experience
+
 <!-- - 東芝ビジネスエキスパート株式会社 研修業務 TA -->
 - (Part-time) 2021/11 - 2022/2 [Preferred Networks, Inc.](https://www.preferred.jp/en/)
 - (Intern) 2021/8 - 9 [Preferred Networks, Inc.](https://www.preferred.jp/en/)
